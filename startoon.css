@@ -1,0 +1,58 @@
+body {
+  margin: 20px;
+  margin-left:500px
+}
+div{border:2px solid}
+div5 h3{margin-left:30px;
+  color:#003f73}
+#box1{margin-left:30px;
+background-color:#c2e3ff}
+#box2{margin-left:30px;
+background-color:#c3e3ff}
+#div1{height:150px;
+  width:50px;
+  margin-left:35px;
+  border-color:#fff;
+  background-color:#008cff}
+#div2{height:40px;
+   border-color:#c2e3ff;
+  background-color:#c2e3ff}
+#div1 h4{margin-top:120px;
+margin-left:12px;
+color:#008cff}
+#div1 h3{color:#003f73;
+margin-top:70px;
+margin-left:-8px}
+
+#div3{margin-left:200px;
+  margin-top:-170px;
+  width:25vh;
+  height:25vh;
+  border-radius:100%;
+  background-color:transparent;
+  border-color:#fff;
+  background:repeating-conic-gradient(
+    from 0deg,
+    #c2e3ff 0deg 95deg,
+    #008cff 95deg 340deg,
+    #c2e3ff 340deg 360deg);}
+#div3 h4{color:#fff;
+  margin-left:50px;
+  margin-top:100px}
+#div3 h3{margin-top:150px;
+margin-left:60px;
+color:#003f73}
+#div4{height:150px;
+  width:50px;
+  margin-left:490px;
+  margin-top:-165px}
+#div4 h3{color:#003f73;
+         margin-top:66px;
+  margin-left:-8px}
+#div4{border-color:#fff;
+  background: linear-gradient(to top, #008cff, #c2e3ff 70%)
+
+}
+#div4 h4{color:#008cff;
+margin-left:12px;
+margin-top:165px}
